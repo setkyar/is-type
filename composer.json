@@ -1,0 +1,12 @@
+{
+    "name": "setkyar/istype",
+    "description": "Check PHP Types",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "setkyar",
+            "email": "setkyar16@gmail.com"
+        }
+    ],
+    "require": {}
+}
