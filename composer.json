@@ -8,5 +8,15 @@
             "email": "setkyar16@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SetKyar\\IsType\\": "src"
+        }
+    }
 }
